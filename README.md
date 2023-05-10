@@ -46,3 +46,27 @@ http://vimeo.com/3418947
 http://sla.ckers.org/forum/read.php?24,33903
 
 http://websec.files.wordpress.com/2010/11/sqli2.pdf
+
+-----------------------------------------------------------------------------
+youtube channel : 
+
+-----------------------------------------------------------------------------
+
+
+https://www.youtube.com/hashtag/bugbounty
+
+https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g
+
+https://www.youtube.com/@STOKfredrik
+
+https://www.youtube.com/hashtag/bugbounty
+
+https://www.youtube.com/@Virdoex
+
+https://www.youtube.com/@Meta4sec
+
+https://www.youtube.com/@TheXSSrat
+
+https://www.youtube.com/@TCMSecurityAcademy
+
+https://www.youtube.com/@NahamSec
